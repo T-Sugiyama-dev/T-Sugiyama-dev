@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Sugiyama-dev
-- 👀 I’m interested in Web, Mobile App
-- 🌱 I’m currently learning Flutter, Go
+- 👀 I’m interested in Web and Mobile App
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
